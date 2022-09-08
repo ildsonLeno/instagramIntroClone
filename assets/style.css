@@ -72,7 +72,7 @@ article {
 }
 
 .mockup{
-    background-image: url(assets/mockups.png);
+    background-image: url(../assets/mockups.png);
     background-size: 468.32px 634.15px;
     background-position: -46px 0;
     height: 581.15px;
